@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my homelab!
 
-- 💡 I’m intrested in Ansible, Terraform, and all things DevOps!
+- 💡 I’m interested in Ansible, Terraform, and all things DevOps!
 
 - 👨‍💻 All of my projects are available at [https://github.com/jalexm8?tab=repositories](https://github.com/jalexm8?tab=repositories)
 
