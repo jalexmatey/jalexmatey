@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on my homelab!<br><br>    💡 I’m interested in Ansible, Terraform, and all things DevOps!<br><br>    👨‍💻 All of my projects are available at https://github.com/jalexm8?tab=repositories<br><br>    📝 I occasionally write articles on https://jack.jalexm8.com<br><br>    💬 Ask me about Ansible, Terraform, DevOps<br><br>    📄 My CV: https://jack.jalexm8.com/cv<br>
+<br><br>    🔭 I’m currently working on my homelab!<br><br>    💡 I’m interested in Ansible, Terraform, and all things DevOps!<br><br>    👨‍💻 All of my projects are available at https://github.com/jalexmatey?tab=repositories<br><br>    📝 I occasionally write articles on https://blog.jalexmatey.co.uk<br><br>    💬 Ask me about Ansible, Terraform, DevOps<br><br>    📄 My CV: https://www.jalexmatey.co.uk/cv<br>
 
 
 ## 🌐 Socials:
