@@ -26,8 +26,3 @@ I specialize in automating infrastructure and optimizing deployment pipelines us
 *   **System Reliability:** Managed event network/WiFi management and handled GCP Cloud SQL database upgrades and migrations.
 *   **Security Management:** Reviewing and maintaining security systems across large company estates (80+ servers) and ensuring compliance with ISO standards.
 *   **Platform Development:** Provisioned robust infrastructure and successfully moved applications to modern platforms like Cloud Run.
-
----
-**Contact Me**
-*   📧 jack.alexander@jalexmatey.com
-*   📍 Manchester, UK
